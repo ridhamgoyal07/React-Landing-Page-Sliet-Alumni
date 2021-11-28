@@ -1,15 +1,15 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Welcome SLIET ALUMNI ",
+    "paragraph": "Any institutions' alumni are key to its growth. We are focused on giving a global experience to our students."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "We focus on faculty, as opposed to facilities, budgets, endowments or students. We do so because We believe, based on many decades of work as a teacher, a scholar and an administrator, that the quality of the faculty determines the quality of the university. Everything else flows from the quality of the faculty. If the faculty are good, you will attract good students and you will have alumni who will raise funds for you.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "SLIET has a lively alumni association",
+      "We truly believe SLIET experience",
+      "SLIET alumni contribute time",
+      "The SLIET aims to learning."
     ],
     "Why2": [
       "Aliquip ex ea commodo",
@@ -20,49 +20,49 @@
   },
   "Gallery": [
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": "College Campus",
+      "largeImage": "img/portfolio/11-gallery.jpg",
+      "smallImage": "img/portfolio/11-gallery.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "title": "Clubs",
+      "largeImage": "img/portfolio/03-gallery.jpg",
+      "smallImage": "img/portfolio/03-gallery.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
+      "title": "Madhuram",
+      "largeImage": "img/portfolio/08-gallery.jpg",
+      "smallImage": "img/portfolio/08-gallery.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
+      "title": "College Library",
+      "largeImage": "img/portfolio/05-gallery.jpg",
+      "smallImage": "img/portfolio/05-gallery.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
+      "title": "Academics",
+      "largeImage": "img/portfolio/06-gallery.jpg",
+      "smallImage": "img/portfolio/06-gallery.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
+      "title": "Auditorium",
+      "largeImage": "img/portfolio/07-gallery.jpg",
+      "smallImage": "img/portfolio/07-gallery.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
+      "title": "Sports",
+      "largeImage": "img/portfolio/12-gallery.jpg",
+      "smallImage": "img/portfolio/12-gallery.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
+      "title": "Study Center",
+      "largeImage": "img/portfolio/09-gallery.jpg",
+      "smallImage": "img/portfolio/09-gallery.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
+      "title": "Library",
+      "largeImage": "img/portfolio/10-gallery.jpg",
+      "smallImage": "img/portfolio/10-gallery.jpg"
     }
   ],
   "Services": [
@@ -131,53 +131,53 @@
   ],
   "Team": [
     {
-      "img": "img/team/01.jpg",
-      "name": "John Doe",
+      "img": "img/team/director.jpg",
+      "name": "Dr. Shailendra Jain",
       "job": "Director"
     },
     {
-      "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "img": "img/team/chairman.jpg",
+      "name": "Dr. K.Radhakrishnan",
+      "job": "Chairman"
     },
     {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "img": "img/team/academics.jpg",
+      "name": "Prof. J.S.Dhillon",
+      "job": "Dean(Academics)"
     },
     {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "img": "img/team/dean.jpg",
+      "name": "Prof. A.S.Arora",
+      "job": "Dean(Faculty & Staff Welfare)"
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "address": "Longowal, Dist. Sangrur (Pb), India - 148106 ",
+    "phone": "+91-1672-280057",
+    "email": "slietlongowal@sliet.ac.in",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-newspaper-o",
+      "title": "NewsRoom",
+      "text": "Get Latest college updates "
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
+      "title": "Anouncement",
       "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
+      "title": "Committee",
       "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     },
     {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
+      "icon": "fa fa-comment",
+      "title": "Comment",
       "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     }
   ]

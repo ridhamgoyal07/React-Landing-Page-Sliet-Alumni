@@ -262,7 +262,7 @@ header .intro-text {
 }
 /* About Section */
 #about {
-  padding: 100px 0;
+  padding: 70px 0;
 }
 #about h3 {
   font-size: 22px;
@@ -352,7 +352,7 @@ header .intro-text {
 }
 /* Portfolio Section */
 #portfolio {
-  padding: 100px 0;
+  padding: 20px 0;
 }
 .portfolio-item {
   margin: 1px -15px 0 -14px;
